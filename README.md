@@ -11,6 +11,8 @@ Once several quizzes are published, a quiz session is held in front of the class
 
 While this app was originally created for a single teacher, it will be available on app stores in the next two weeks, allowing students to learn new words from home as well.
 
+Also, the design of this app has been thought so that children who can't read yet can use the app easily.
+
 ![welcomeScreen](https://github.com/leojellimann/DeviQuiz_ReactNative/assets/93252510/70e6f5cb-7c36-4221-a894-6ad191e5f2b3)
 ![signinScreen](https://github.com/leojellimann/DeviQuiz_ReactNative/assets/93252510/dc802b94-5a7e-4b86-a7dc-fdc4f9ac381d)
 ![feedAnswerScreen](https://github.com/leojellimann/DeviQuiz_ReactNative/assets/93252510/3a5645a6-3c71-4736-93df-dd69d31a7b11)
